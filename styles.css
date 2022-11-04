@@ -5,6 +5,12 @@
     padding: 0;
     color: white;
 }
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    opacity: 0.45;
+   
+  }
 html {
     width: 100%;
 
